@@ -7,9 +7,9 @@ Práctica 7: Iteradores
 ### Fecha de entrega: martes 15 de octubre, 2019
 
 Deben hacer su clase
-[Lista](https://aztlan.fciencias.unam.mx/gitlab/2023-1-icc/practica7/-/blob/master/src/main/java/mx/unam/ciencias/icc/Lista.java)
+[Lista](https://aztlan.fciencias.unam.mx/gitlab/2023-1-icc/practica7/-/blob/main/src/main/java/mx/unam/ciencias/icc/Lista.java)
 iterable. Esto implicará cambios también en la clase
-[BaseDeDatos](https://aztlan.fciencias.unam.mx/gitlab/2023-1-icc/practica7/-/blob/master/src/main/java/mx/unam/ciencias/icc/BaseDeDatos.java).
+[BaseDeDatos](https://aztlan.fciencias.unam.mx/gitlab/2023-1-icc/practica7/-/blob/main/src/main/java/mx/unam/ciencias/icc/BaseDeDatos.java).
 
 Una vez que hayan terminado con sus clases, deben compilar al hacer:
 
@@ -24,7 +24,7 @@ $ mvn test
 ```
 
 Por último, se debe ejecutar correctamente el programa escrito en la clase
-[Practica7](https://aztlan.fciencias.unam.mx/gitlab/2023-1-icc/practica7/-/blob/master/src/main/java/mx/unam/ciencias/icc/Practica7.java)
+[Practica7](https://aztlan.fciencias.unam.mx/gitlab/2023-1-icc/practica7/-/blob/main/src/main/java/mx/unam/ciencias/icc/Practica7.java)
 al hacer:
 
 ```
